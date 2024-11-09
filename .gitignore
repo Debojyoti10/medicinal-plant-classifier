@@ -1,0 +1,5 @@
+"model_resnet.h5" 
+"model_cnn.h5" 
+"*.dll" 
+"*.pyd" 
+"env/" 
